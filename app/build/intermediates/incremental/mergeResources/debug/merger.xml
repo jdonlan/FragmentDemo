@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/jdonlan/AndroidStudioProjects/FragmentDemo/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/jdonlan/AndroidStudioProjects/FragmentDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/jdonlan/AndroidStudioProjects/FragmentDemo/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/jdonlan/AndroidStudioProjects/FragmentDemo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/jdonlan/AndroidStudioProjects/FragmentDemo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/jdonlan/AndroidStudioProjects/FragmentDemo/app/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="buttons_fragment"
+                path="/Users/jdonlan/AndroidStudioProjects/FragmentDemo/app/src/main/res/layout/buttons_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="display_fragment"
+                path="/Users/jdonlan/AndroidStudioProjects/FragmentDemo/app/src/main/res/layout/display_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/jdonlan/AndroidStudioProjects/FragmentDemo/app/src/main/res/layout-land/activity_main.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                path="/Users/jdonlan/AndroidStudioProjects/FragmentDemo/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="android_14_name" >Ice Cream Sandwich
+                </string>
+                <string name="android_3_name" >Cupcake
+                </string>
+                <string name="android_14" >API 14
+                </string>
+                <string name="android_11_name" >Honeycomb
+                </string>
+                <string name="android_8" >API 8
+                </string>
+                <string name="app_name" >Fragment Demo
+                </string>
+                <string name="android_3" >API 3
+                </string>
+                <string name="android_8_name" >Froyo
+                </string>
+                <string name="android_11" >API 11
+                </string>
+            </file>
+        </source>
+        <source path="/Users/jdonlan/AndroidStudioProjects/FragmentDemo/app/build/generated/res/rs/debug" />
+        <source path="/Users/jdonlan/AndroidStudioProjects/FragmentDemo/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/jdonlan/AndroidStudioProjects/FragmentDemo/app/src/debug/res" />
+    </dataSet>
+
+</merger>
